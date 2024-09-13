@@ -12,7 +12,7 @@
 	<artifactId>oauth2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>oauth2</name>
-	<description>Demo project for Spring Boot</description>
+	<description>This a mini Project in which you can sign in using GitHub or Google account</description>
 	<url/>
 	<licenses>
 		<license/>
